@@ -1,7 +1,9 @@
 class C
 {
 	C(){
+		System.out.println("yoonsun");
 		System.out.println("Git");
+
 	}
 	public static void main(String[] args) 
 	{
