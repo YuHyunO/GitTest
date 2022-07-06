@@ -1,6 +1,9 @@
 class C
 {
 	C(){
+		System.out.println("오유ㅕㅎㄴ 작업");
+		System.out.println("오유ㅕㅎㄴ 작업");
+		System.out.println("오유ㅕㅎㄴ 작업");
 		System.out.println("Git");
 	}
 	public static void main(String[] args) 
