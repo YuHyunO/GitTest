@@ -2,6 +2,10 @@ class C
 {
 	C(){
 		System.out.println("yoonsun");
+		System.out.println("yoonsun");
+		System.out.println("yoonsun");
+		System.out.println("yoonsun");
+		System.out.println("yoonsun");
 		System.out.println("Git");
 
 	}
