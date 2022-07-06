@@ -1,10 +1,15 @@
 class C
 {
 	C(){
-		System.out.println("오유ㅕㅎㄴ 작업");
-		System.out.println("오유ㅕㅎㄴ 작업");
-		System.out.println("오유ㅕㅎㄴ 작업");
+
+		System.out.println("오유 작업");
+		
+		System.out.println("yoonsun");
+		System.out.println("yoonsun");
+		System.out.println("yoonsun");
+
 		System.out.println("Git");
+
 	}
 	public static void main(String[] args) 
 	{
